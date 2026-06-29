@@ -1,0 +1,7 @@
+# Icarus Verilog generated executable
+fifo
+
+# Simulation output
+*.vvp
+*.out
+*.log
